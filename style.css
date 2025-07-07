@@ -71,7 +71,7 @@ body{
     font-size: 28px;
 }
 
-.parametro-senha__titulo{
+.paramentro-senha__titulo{
     font-size: 24px;
 }
 
@@ -87,9 +87,10 @@ body{
 }
 
 .parametro-senha-botoes{
-    display: flex;
+    display:flex;
     justify-content: center;
 }
+
 .parametro-senha__botao{
     background-color: var(--fundo-texto);
     color: var(--branco);
